@@ -12,4 +12,9 @@ this is my code!
 int a =10;
 
 int b = 20;
-//你是我的小呀小苹果
+
+Integer n = null;
+
+String s = "qwe";
+//添加一个字符串
+12
